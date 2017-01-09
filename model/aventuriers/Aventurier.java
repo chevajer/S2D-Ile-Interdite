@@ -9,7 +9,7 @@ import model.ObjetIdentifie;
  */
 public abstract class Aventurier extends ObjetIdentifie {
   
-  private nbActions : float;
-  private role : Pion;
+  private float nbActions;
+  private Pion role;
   
 }

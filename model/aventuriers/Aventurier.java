@@ -1,5 +1,5 @@
 package model.aventuriers;
-package 
+package util.pion;
 
 import model.ObjetIdentifie;
 
